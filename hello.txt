@@ -2,3 +2,4 @@ Hello world saja
 ada tambahan
 mencoba menambahkan deskripsi
 update squash 1
+update squash 2
